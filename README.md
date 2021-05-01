@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Roman94E
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Edoardo Romanello
+- 👀 I’m interested in AI, Deep learning, Python
 - 📫 How to reach me : romanelloedoardo@gmail.com
 
 <!---

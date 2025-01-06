@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Edoardo Romanello
 - 👀 I’m interested in AI, Deep learning, Python
-- 📫 How to reach me : romanelloedoardo@gmail.com
+- 📫 How to reach me : edoardo.romanello@outlook.com
 
 <!---
 Roman94E/Roman94E is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
